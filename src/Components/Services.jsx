@@ -1,7 +1,7 @@
 import React from "react";
 import star from "../assets/Star.svg";
 import shield from "../assets/Shield.svg";
-import send from "../assets/send.svg";
+import send from "../assets/Send.svg";
 
 function Services() {
   return (
