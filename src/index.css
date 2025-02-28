@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+:root {
+  --main-color: #171821;
+  --secondary-color: #5ce1e6;
+}
+
+body {
+  font-family: "Urbanist", sans-serif;
+}
